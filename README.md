@@ -11,3 +11,5 @@ It currently has four states:
 
 If the character that it gets is not one of those four ID characters, it turns off.
 
+It also hosts an OTA page at its IP address. Go there, and upload the .bin file for your code to update it over OTA.
+
